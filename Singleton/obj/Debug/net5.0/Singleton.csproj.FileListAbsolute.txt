@@ -1,0 +1,16 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache

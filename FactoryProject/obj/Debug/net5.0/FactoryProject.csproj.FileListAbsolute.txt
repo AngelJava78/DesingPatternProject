@@ -1,0 +1,16 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\ref\FactoryProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.csproj.AssemblyReference.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\ref\FactoryProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\ref\DesingPatternProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\bin\Debug\net5.0\DesingPatternProject.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.csproj.AssemblyReference.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\ref\DesingPatternProject.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\DesingPatternProject\obj\Debug\net5.0\DesingPatternProject.genruntimeconfig.cache

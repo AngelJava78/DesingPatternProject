@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOBP2wILAwNzL/lLQFEOymXN+TyiwfNE5s1Geg6DVT4HHLISam52G1v1YCfm9qn0T9d6NrZrl1GOsMHavoX6qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajavier\\source\\repos\\DesingPatternProject\\Prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajavier\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

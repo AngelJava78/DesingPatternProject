@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesingPatternProject/1.0.0": {
+        "runtime": {
+          "DesingPatternProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesingPatternProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
