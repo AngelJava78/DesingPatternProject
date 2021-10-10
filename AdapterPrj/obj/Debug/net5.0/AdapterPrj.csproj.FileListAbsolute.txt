@@ -1,0 +1,16 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\ref\AdapterPrj.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\bin\Debug\net5.0\AdapterPrj.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\ref\AdapterPrj.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.genruntimeconfig.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\AdapterPrj\obj\Debug\net5.0\AdapterPrj.csproj.AssemblyReference.cache

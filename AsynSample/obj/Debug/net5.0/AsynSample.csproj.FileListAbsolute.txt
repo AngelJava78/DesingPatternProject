@@ -1,0 +1,15 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\ref\AsynSample.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\bin\Debug\net5.0\AsynSample.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\ref\AsynSample.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\AsynSample\obj\Debug\net5.0\AsynSample.genruntimeconfig.cache
