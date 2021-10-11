@@ -1,0 +1,15 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
