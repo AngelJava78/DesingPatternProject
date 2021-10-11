@@ -52,7 +52,7 @@ namespace CompositePattern.Items
         public string Show(int deep)
         {
             var infoItem = new StringBuilder();
-            infoItem.AppendLine($"- {deep}");
+            infoItem.Append($"-{deep}");
             infoItem.AppendLine($"Composite: {Name}. Items: {items.Count}");
             foreach(IComponent<T> item in items)
             {
