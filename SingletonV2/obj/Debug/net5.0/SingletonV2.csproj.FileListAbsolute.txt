@@ -26,3 +26,4 @@ C:\Users\Ajavier\source\repos\DesingPatternProject\SingletonV2\obj\Debug\net5.0\
 C:\Users\Ajavier\source\repos\DesingPatternProject\SingletonV2\obj\Debug\net5.0\ref\SingletonV2.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\SingletonV2\obj\Debug\net5.0\SingletonV2.pdb
 C:\Users\Ajavier\source\repos\DesingPatternProject\SingletonV2\obj\Debug\net5.0\SingletonV2.genruntimeconfig.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\SingletonV2\obj\Debug\net5.0\SingletonV2.csproj.AssemblyReference.cache

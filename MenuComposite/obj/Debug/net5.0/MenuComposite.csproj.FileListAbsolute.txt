@@ -1,0 +1,16 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\ref\MenuComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\bin\Debug\net5.0\MenuComposite.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.csproj.AssemblyReference.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\ref\MenuComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\MenuComposite\obj\Debug\net5.0\MenuComposite.genruntimeconfig.cache

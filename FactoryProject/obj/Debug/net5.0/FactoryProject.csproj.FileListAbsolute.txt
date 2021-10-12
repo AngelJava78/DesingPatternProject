@@ -5,7 +5,6 @@ C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\ref\FactoryProject.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\bin\Debug\net5.0\FactoryProject.pdb
-C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.csproj.AssemblyReference.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.AssemblyInfoInputs.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.AssemblyInfo.cs

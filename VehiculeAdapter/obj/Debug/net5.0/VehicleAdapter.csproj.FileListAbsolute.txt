@@ -5,7 +5,6 @@ C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\bin\Debug\net
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\bin\Debug\net5.0\VehicleAdapter.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\bin\Debug\net5.0\ref\VehicleAdapter.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\bin\Debug\net5.0\VehicleAdapter.pdb
-C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\obj\Debug\net5.0\VehicleAdapter.csproj.AssemblyReference.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\obj\Debug\net5.0\VehicleAdapter.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\obj\Debug\net5.0\VehicleAdapter.AssemblyInfoInputs.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\VehiculeAdapter\obj\Debug\net5.0\VehicleAdapter.AssemblyInfo.cs

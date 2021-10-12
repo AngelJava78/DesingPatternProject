@@ -5,7 +5,6 @@ C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\bin\Debug\net5
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\bin\Debug\net5.0\FilesComposite.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\bin\Debug\net5.0\ref\FilesComposite.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\bin\Debug\net5.0\FilesComposite.pdb
-C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\obj\Debug\net5.0\FilesComposite.csproj.AssemblyReference.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\obj\Debug\net5.0\FilesComposite.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\obj\Debug\net5.0\FilesComposite.AssemblyInfoInputs.cache
 C:\Users\Ajavier\source\repos\DesingPatternProject\FilesComposite\obj\Debug\net5.0\FilesComposite.AssemblyInfo.cs

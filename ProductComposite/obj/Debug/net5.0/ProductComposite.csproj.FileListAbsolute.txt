@@ -1,0 +1,15 @@
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.exe
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.deps.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.runtimeconfig.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.runtimeconfig.dev.json
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ref\ProductComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\bin\Debug\net5.0\ProductComposite.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ref\ProductComposite.dll
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.pdb
+C:\Users\Ajavier\source\repos\DesingPatternProject\ProductComposite\obj\Debug\net5.0\ProductComposite.genruntimeconfig.cache

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuComposite", "MenuCompos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesComposite", "FilesComposite\FilesComposite.csproj", "{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductComposite", "ProductComposite\ProductComposite.csproj", "{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
