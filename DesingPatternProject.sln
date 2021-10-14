@@ -15,25 +15,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{F0FD5ABF-3F46-4907-96E1-C0957FAE5995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonV2", "SingletonV2\SingletonV2.csproj", "{B16C4F53-0419-41E7-B255-931CD30CCDCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonV2", "SingletonV2\SingletonV2.csproj", "{B16C4F53-0419-41E7-B255-931CD30CCDCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAdapter", "CalculatorAdapter\CalculatorAdapter.csproj", "{A4CDAD88-94CB-4648-B13A-919164A08AD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorAdapter", "CalculatorAdapter\CalculatorAdapter.csproj", "{A4CDAD88-94CB-4648-B13A-919164A08AD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleAdapter", "VehiculeAdapter\VehicleAdapter.csproj", "{BA9D72CE-2A55-49EB-A227-FE7254FAC11E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleAdapter", "VehiculeAdapter\VehicleAdapter.csproj", "{BA9D72CE-2A55-49EB-A227-FE7254FAC11E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{1AA02165-D555-4E2B-A4C7-D98430F0D9D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{1AA02165-D555-4E2B-A4C7-D98430F0D9D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuComposite", "MenuComposite\MenuComposite.csproj", "{E5EC5F1A-ECC2-4CFE-9490-5DE16C851636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuComposite", "MenuComposite\MenuComposite.csproj", "{E5EC5F1A-ECC2-4CFE-9490-5DE16C851636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesComposite", "FilesComposite\FilesComposite.csproj", "{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesComposite", "FilesComposite\FilesComposite.csproj", "{F720ACCF-D2BF-4357-BE55-AD8D0406B9E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductComposite", "ProductComposite\ProductComposite.csproj", "{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductComposite", "ProductComposite\ProductComposite.csproj", "{DAA897A7-9E64-42E4-ACF7-3DC79978C11B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{FB2A912C-A10A-45C6-8023-D953EADF2AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{FB2A912C-A10A-45C6-8023-D953EADF2AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyRepository", "ProxyRepository\ProxyRepository.csproj", "{D5C49399-3953-488C-A9B8-E74116B91571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyRepository", "ProxyRepository\ProxyRepository.csproj", "{D5C49399-3953-488C-A9B8-E74116B91571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentFacade", "PaymentFacade\PaymentFacade.csproj", "{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentFacade", "PaymentFacade\PaymentFacade.csproj", "{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{0FEC97FD-9F89-41B9-AFB3-5BE1A8AA4C45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FEC97FD-9F89-41B9-AFB3-5BE1A8AA4C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEC97FD-9F89-41B9-AFB3-5BE1A8AA4C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEC97FD-9F89-41B9-AFB3-5BE1A8AA4C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEC97FD-9F89-41B9-AFB3-5BE1A8AA4C45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
