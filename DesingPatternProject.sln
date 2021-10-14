@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyRepository", "ProxyRepository\ProxyRepository.csproj", "{D5C49399-3953-488C-A9B8-E74116B91571}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentFacade", "PaymentFacade\PaymentFacade.csproj", "{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D5C49399-3953-488C-A9B8-E74116B91571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5C49399-3953-488C-A9B8-E74116B91571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5C49399-3953-488C-A9B8-E74116B91571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DB23B8-FE34-4AC0-AB50-6C2FA1D9FED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
