@@ -13,3 +13,4 @@ C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\ref\FactoryProject.dll
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.pdb
 C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.genruntimeconfig.cache
+C:\Users\Ajavier\source\repos\DesingPatternProject\FactoryProject\obj\Debug\net5.0\FactoryProject.csproj.AssemblyReference.cache
